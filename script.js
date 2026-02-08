@@ -91,7 +91,7 @@ const dopapirListe = [
     forPris: 79.90,
     meter: 300.8,
     lag: 3,
-    bilde: "images/lambi-16pk.webp"
+    bilde: "images/Lambi-16pk.webp"
   }),
 
   lagDopapir({
@@ -109,7 +109,7 @@ const dopapirListe = [
     pris: 139,
     meter: 494.4,
     lag: 3,
-    bilde: "images/lambi-24pk.jpg"
+    bilde: "images/Lambi-24pk.jpg"
   }),
 
   lagDopapir({
@@ -118,7 +118,7 @@ const dopapirListe = [
     pris: 109,
     meter: 247.2,
     lag: 3,
-    bilde: "images/lambi-12pk.jpg"
+    bilde: "images/Lambi-12pk.jpg"
   }),
 
   lagDopapir({
@@ -251,3 +251,4 @@ function visSistOppdatert() {
 visToppliste();
 visUkensKupp();
 visSistOppdatert();
+
